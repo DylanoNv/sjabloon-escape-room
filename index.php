@@ -13,7 +13,7 @@
   <h1>Escape Room</h1>
   <p>Denk jij dat je het aankunt om uit onze escape room te ontsnappen? Test het vandaag nog!
   </p>
-  <p>Via deze pagina gaat een team naar de aanmeldpagina</p>
+  <p>Klik hieronder om je team te maken en de room in te duiken!</p>
 
 
   <button><a href="./rooms/room_1.php">Klik hier voor een demonstratie van kamer
