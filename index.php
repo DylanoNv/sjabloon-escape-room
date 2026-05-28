@@ -10,9 +10,9 @@
 
 <body>
 
-  <h1>Welkom</h1>
-  <p>De button hieronder is alleen voor testdoeleinden bij het opstarten van het project. Deze pagina is bedoeld voor de
-    uitleg van jullie escape room.</p>
+  <h1>Escape Room</h1>
+  <p>Denk jij dat je het aankunt om uit onze escape room te ontsnappen? Test het vandaag nog!
+  </p>
   <p>Via deze pagina gaat een team naar de aanmeldpagina</p>
 
 
